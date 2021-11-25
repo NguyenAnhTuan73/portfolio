@@ -143,6 +143,9 @@ a {
     border-left: 3px solid #424242;
     font-size: 1rem;
 }
+.right-item-text h6 {
+    font-weight: bold;
+}
 @media only screen and (max-width:815px){
     .wrapper {
         display: flex;
